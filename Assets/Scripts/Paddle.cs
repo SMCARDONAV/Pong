@@ -1,6 +1,3 @@
 using UnityEngine;
 
-public class Paddle
-{
-    
-}
+public class Paddle : MonoBehaviour {}
